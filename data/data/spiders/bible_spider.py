@@ -14,7 +14,12 @@ class BibleSpider(scrapy.Spider):
             'https://www.bible.com/bible/279/MAT.3.TZOZ',
             'https://www.bible.com/bible/279/MAT.4.TZOZ',
             'https://www.bible.com/bible/279/MAT.5.TZOZ',
-            'https://www.bible.com/bible/279/MAT.6.TZOZ'
+            'https://www.bible.com/bible/279/MAT.6.TZOZ',
+            'https://www.bible.com/bible/279/MAT.7.TZOZ',
+            'https://www.bible.com/bible/279/MAT.8.TZOZ',
+            'https://www.bible.com/bible/279/MAT.9.TZOZ',
+            'https://www.bible.com/bible/279/MAT.10.TZOZ',
+            'https://www.bible.com/bible/279/MAT.11.TZOZ'
         ]
 
         for url in urls:
